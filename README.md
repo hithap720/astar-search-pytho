@@ -1,2 +1,2 @@
 # astar-search-pytho
-Python implementation of the A* searcg
+Python implementation of the A* search algorithm to find the shortest path between a start node and a goal node
